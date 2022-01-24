@@ -1,7 +1,9 @@
 class View
   def display(recipes)
+    p recipes
     recipes.each_with_index do |recipe, index|
-      puts "#{index + 1}- #{recipe.name} -- #{recipe.description} "
+      done = recipe.done? ? "[X]": "[ ]"
+      puts "#{done} #{index + 1}- #{recipe.name} -- #{recipe.description} "
     end
   end
 

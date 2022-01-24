@@ -1,4 +1,8 @@
-Beans & Bacon breakfast,Beans description
-Plum pudding,Pudding description
-Apple pie,Apple pie description
-Christmas crumble,Crumble description
+name,description,done,prep_time
+Beans & Bacon breakfast,Beans description,true,
+Plum pudding,Pudding description,false,
+Apple pie,Apple pie description,false,
+Christmas crumble,Crumble description,false,
+Chestnut Appetizers,These can be made a day or two ahead and reheated. They are delicious.,false,
+Chestnut Appetizers,These can be made a day or two ahead and reheated. They are delicious.,false,Servings: 15
+Pain au Chocolat (Chocolate-Filled Croissant),"This light, flaky French-style croissant roll is filled with delicious chocolate. The entire family will love it! Using the bread machine saves a lot of energy.",false,prep: 45 mins
